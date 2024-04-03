@@ -8,7 +8,6 @@ This is a simple HTML and CSS website named "Holiday Travel." The website provid
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -35,5 +34,20 @@ To run this website locally, follow these steps:
     ```
 3. Open the `index.html` file in your web browser to view the website.
 
-Explore the home page to get an overview of available destinations.
-Navigate to different pages in the menu bar to view detailed information and images.
+## Usage
+
+1. Explore the home page to get an overview of available destinations.
+2. Navigate to different pages on the Nav bar.
+3. Check out the tour page for tour packages to amazing locations.
+4. Open the website only on Desktop site as it is not a responsive website.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/your-feature-name`).
+6. Create a new Pull Request.
